@@ -1,7 +1,7 @@
 # Arduino-IDE-dark-theme-EASY
 
 Новая облегчённая тёмная тема для Arduino IDE
-![внешний вид]([https://i.postimg.cc/sg0TFRNn/IMG-20241210-160501-101.png](https://i.postimg.cc/pTDjdMzb/IMG-20250113-121231.png))
+![внешний вид](https://i.postimg.cc/pTDjdMzb/IMG-20250113-121231.png)](https://postimg.cc/ZB5nfgwV)
 ## как установить
 для установки нужно заменить папку theme (она находится в Arduino > lib > theme) на одноимённую папку из репозитория.
 На всякий случай советую где-нибудь сохранить изначальную тему (можно оставить её там же, но поменять имя,  например theme_orig).
